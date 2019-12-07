@@ -1,4 +1,4 @@
-import React, { Component, createContext, useEffect} from 'react'
+import React, { Component, createContext} from 'react'
 import axios from 'axios'
 
 const Context = createContext();
